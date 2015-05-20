@@ -4,19 +4,19 @@ Pyblish for Blackmagic Design Fusion
 
 # Research
 
-Some testing / paperwork so far
+Some testing & paperwork so far on getting connections up and running with Fusion.
 
 ### Fusion documentation reference
 
-http://www.steakunderwater.com/VFXPedia/96.0.243.189/
+[Community Fusion Scripting Documentation (Mirror of VFXPedia)](http://www.steakunderwater.com/VFXPedia/96.0.243.189/)
 
 ### References
 
-http://www.steakunderwater.com/VFXPedia/96.0.243.189/indexb20a.html?title=Eyeon:Script/Reference/Applications/eyeonScript
-http://www.steakunderwater.com/VFXPedia/96.0.243.189/indexfdff.html?title=Eyeon:Script/Reference/Applications/eyeonScript/Installing
-http://www.steakunderwater.com/VFXPedia/96.0.243.189/index5522.html?title=Eyeon:Script/Reference/Applications/Fusion/Classes/Fusion
-http://www.steakunderwater.com/VFXPedia/96.0.243.189/index0ac6.html?title=Eyeon:Script/Tutorials/Command_Line
-http://www.steakunderwater.com/VFXPedia/96.0.243.189/index8c76.html?title=Eyeon:Script/Reference/Applications/Fusion/Classes
+- [Eyeonscript](http://www.steakunderwater.com/VFXPedia/96.0.243.189/indexb20a.html?title=Eyeon:Script/Reference/Applications/eyeonScript)
+- [Eyeonscript: Installing](http://www.steakunderwater.com/VFXPedia/96.0.243.189/indexfdff.html?title=Eyeon:Script/Reference/Applications/eyeonScript/Installing)
+- [Command Line Tutorials](http://www.steakunderwater.com/VFXPedia/96.0.243.189/index0ac6.html?title=Eyeon:Script/Tutorials/Command_Line)
+- [Fusion Class Reference](http://www.steakunderwater.com/VFXPedia/96.0.243.189/index8c76.html?title=Eyeon:Script/Reference/Applications/Fusion/Classes)
+- [Fusion Class Reference: Object>Fusion](http://www.steakunderwater.com/VFXPedia/96.0.243.189/index5522.html?title=Eyeon:Script/Reference/Applications/Fusion/Classes/Fusion)
 
 ---
 
